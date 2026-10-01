@@ -1,0 +1,19 @@
+	soap : 20 : 100
+
+	Brush : 15 : 50
+
+	egg : 30 : 24
+
+
+	soap : 20 : 100
+
+	egg : 15 : 200
+
+
+	coffee : 15 : 175
+	soap : 20 : 100
+	tea : 20 : 145
+	coffee : 20 : 180
+	egg : 10 : 200
+	brush : 12 : 175
+	toothpaste : 23 : 254
